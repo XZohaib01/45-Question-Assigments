@@ -1,5 +1,4 @@
-let names: string[] =[`Aleem Chohan`,`Zohaib Chohan`,`Muneeb Chohan`];
-let message: string=`i am a programer:`;
-for(let i=0; i<names.length; i++){
-console.log(message + names[i]);
+let transportation : string []=[`Audi`,`v8`,`Revo`];
+for(let i=0; i<transportation.length; i++){
+    console.log(`I would like to own a ` + transportation[i]);
 }

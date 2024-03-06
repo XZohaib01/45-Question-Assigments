@@ -1,5 +1,4 @@
-var names = ["Aleem Chohan", "Zohaib Chohan", "Muneeb Chohan"];
-var message = "i am a programer:";
-for (var i = 0; i < names.length; i++) {
-    console.log(message + names[i]);
+var transportation = ["Audi", "v8", "Revo"];
+for (var i = 0; i < transportation.length; i++) {
+    console.log("I would like to own a " + transportation[i]);
 }
