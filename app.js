@@ -1,4 +1,4 @@
-var quote = "A person who never made a mistake never tried anything new";
-var famous_person = "Albert Einstein";
-var message = "".concat(famous_person, " once said, ").concat(quote);
-console.log(message);
+var personName = "\n\t Zohaib Chohan\t\n";
+console.log(personName);
+var stripped = personName.trim();
+console.log(stripped);
