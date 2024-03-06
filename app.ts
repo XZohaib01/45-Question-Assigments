@@ -1,4 +1,4 @@
-let transportation : string []=[`Audi`,`v8`,`Revo`];
-for(let i=0; i<transportation.length; i++){
-    console.log(`I would like to own a ` + transportation[i]);
-}
+let guest_list : string []=[`Aleem Chohan`,`Muneeb Chohan`,`Zohaib Chohan`];
+for(let i=0; i<guest_list.length; i++){
+    console.log(`Respected brother` + guest_list[i] +`,/n/nWe invited you on dinner Tomorrow./n/nThank You`)
+}    
